@@ -31,7 +31,6 @@ This website offers tool to translate words from English to Pig Latin.
  Test: "It will recognize "qu" as the second and third letters and remove all of the first three letters from the beginning add them to the end and add "ay"
  Expect: (pigLatin("equal")).toEqual("alequay”);
  
- //switch order when writing if/else
 
 
 ## Setup/Installation
